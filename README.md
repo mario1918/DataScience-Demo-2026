@@ -1,3 +1,5 @@
+[![Python application test with Github Actions](https://github.com/mario1918/DataScience-Demo-2026/actions/workflows/main.yml/badge.svg)](https://github.com/mario1918/DataScience-Demo-2026/actions/workflows/main.yml)
+
 # COVID-19 Data Science Analysis
 
 A comprehensive data science project analyzing COVID-19 trends across US states using data from the New York Times, combined with demographic and political features.
