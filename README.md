@@ -116,7 +116,3 @@ jupyter
 The notebook includes sections for:
 - **Modeling**: Machine learning predictions (to be implemented)
 - **Conclusion**: Summary of findings (to be completed)
-
-## License
-
-Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
